@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments and secrets
+.venv/
+venv/
+env/
+.env
+
+# Editors and OS
+.DS_Store
+.vscode/
+.idea/
+
+# Course material and binaries that must not be committed
+*.pdf
+*.pptx
+*.zip
