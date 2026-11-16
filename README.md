@@ -1,6 +1,6 @@
 # python-learning
 
-My Python coursework and practice scripts, gathered in one place.
+My Python coursework and practice scripts.
 
 | Folder | Contents |
 |---|---|
