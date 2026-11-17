@@ -17,6 +17,9 @@ env/
 .vscode/
 .idea/
 
+# Claude Code instructions (local only)
+CLAUDE.md
+
 # Course material and binaries that must not be committed
 *.pdf
 *.pptx
